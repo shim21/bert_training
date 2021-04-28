@@ -1,6 +1,7 @@
 # bert_training
 Bert training guideline.
 you need to download the pre-trained BERT model
+
 pre-trained BERT model download address : https://github.com/google-research/bert 
 <img width="787" alt="image" src="https://user-images.githubusercontent.com/50358274/116375298-1e0ac280-a84a-11eb-902d-ece1f65c510d.png">
 
